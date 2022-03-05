@@ -1,0 +1,21 @@
+.show-name {
+  text-align: center;
+  color: red;
+}
+.awnser {
+  text-align: center;
+  color: green;
+}
+
+.ball {
+  /* put in middle of the screen */
+  position: absolute;
+  top: 50%;
+  left: 39%;
+  width: 200px;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+}
